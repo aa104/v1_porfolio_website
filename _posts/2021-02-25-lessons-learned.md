@@ -11,4 +11,4 @@ I think this is my first lesson: Have a clear objective in mind. While this page
 
 Second, I needed to investigate more sources that provide both  information and choice.
 
-Lastly, I'm happy that I got something of a draft reasonably working. It was an opportunity to put random pieces of frontend knowledge to a practical use so it was built on a whim and heavy basis on this example [here](http://jmcglone.com/guides/github-pages/).  
+Lastly, I'm happy that I got something of a draft reasonably working. It was an opportunity to put random pieces of frontend knowledge to a practical use so it was built on a whim and heavy basis on this example [here](http://jmcglone.com/guides/github-pages/). Check it out.
