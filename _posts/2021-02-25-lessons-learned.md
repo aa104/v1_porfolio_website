@@ -11,4 +11,4 @@ The first lesson is to have a clear objective in mind. While this page clearly c
 
 A second lesson is to investigate more sources to understand the trade-offs between available choices.  
 
-Lastly, I'm happy that I got something of a draft working well. It was an opportunity to put random pieces of frontend knowledge to practical use. It was built on a late-night, takis-fueled whim and HERE basis on this example [here](http://jmcglone.com/guides/github-pages/). Please check it out. 
+Lastly, I'm happy that I got something of a draft working well. It was an opportunity to put random pieces of frontend knowledge to practical use. It was built on a late-night, takis-fueled whim and heavy basis on this example [here](http://jmcglone.com/guides/github-pages/). Please check it out. 
