@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Current plans for next version."
-date: 2021-02-25 
+date: 2021-02-28
 ---
 
 Goal: Develop a personal porfolio website, in a javascript or typescript framework
